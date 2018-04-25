@@ -1,4 +1,5 @@
 #!/bin/bash
+# ver: 0.1.0
 
 CMDS="json install package term suggest init update list show getdeps"
 CMDS_term="write cursor color background move transition clear reset bright dim underline blink reverse hidden"
